@@ -42,7 +42,8 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: bold;
-  z-index: 2;
+  z-index: 3
+;
 }
 
 .header__subtitle {
@@ -353,7 +354,7 @@
 }
 
 .footer__column-heading {
-  margin: 0;
+        margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
